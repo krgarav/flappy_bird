@@ -1,0 +1,21 @@
+.gameArea {
+  width: 400px;
+  height: 600px;
+  border: 1px solid #000;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.bird {
+  width: 30px;
+  height: 30px;
+  background-color: #f00;
+  position: absolute;
+}
+
+.sky {
+  width: 100%;
+  height: 100%;
+  background-color: #87ceeb;
+}
